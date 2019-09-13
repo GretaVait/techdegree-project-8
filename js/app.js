@@ -1,3 +1,4 @@
+//variables
 const employeeList = document.querySelector('.employee-list');
 let employee = [];
 
